@@ -1,0 +1,11 @@
+# Editors
+.vscode
+.idea
+\#*\#
+auto-save-list
+pyrightconfig.json
+
+# OS
+.DS_Store
+
+.python-version
